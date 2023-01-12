@@ -1,0 +1,9 @@
+# Run following command in CMD
+
+1) Checking if AWS Cli is working & check bucket
+
+aws s3 ls
+
+2) Upload the data using the command 
+
+aws sync "filepath" s3://bucket-name
