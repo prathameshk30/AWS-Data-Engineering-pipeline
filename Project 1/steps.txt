@@ -1,0 +1,28 @@
+1) Create new IAM role
+a) select Glue
+b) add permission:- Power User acess
+c) define name
+d) create Role
+
+2) Create S3 role
+a) create 1 bucket for input data
+b) create 1 bucket for output data
+c) create 1 bucket for glue scripts 
+
+3) AWS glue
+a) Create database
+b) create crawler:- add data source, choose IAM permission, create crawler
+
+4) run crawler
+
+5) check table
+
+6) create job (ETL)
+a) aws glue catlog
+b) change schema 
+c) target S3 bucket
+d)edit job details
+e) save & run job
+
+7) go to athena
+query data 
