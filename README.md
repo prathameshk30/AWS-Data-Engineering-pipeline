@@ -1,4 +1,4 @@
-# AWS-ETL-Data-pipeline
+# AWS-Data-Engineering-pipeline
 
 ## This repository consists of various data engineering projects on AWS. 
 
