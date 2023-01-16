@@ -1,6 +1,6 @@
 # AWS-Data-Engineering-pipeline
 
-## This repository consists of various data engineering projects on AWS. 
+## This repository consists of data engineering projects on AWS. 
 
 ### 1) Project 1 
 #### (AWS S3 | AWS GLUE | AWS Athena | ETL)
